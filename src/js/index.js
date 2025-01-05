@@ -36,7 +36,7 @@ console.log(myNull);
 const name = prompt("Write your name:");
 alert("Hello " + name + "!");
 
-eighth;
+// eighth
 
 const confirmation = confirm("Are you agree with our rules?");
 
